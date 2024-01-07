@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <catalogue name="technical_books">
+        <book>
+            <ISBN>1234567890</ISBN>
+            <title>Introduction to Programming</title>
+            <author>John Smith</author>
+        </book>
+        <book>
+            <ISBN>2345678901</ISBN>
+            <title>Data Structures and Algorithms</title>
+            <author>Jane Doe</author>
+        </book>
+    </catalogue>
+    <catalogue name="cookery_books">
+        <book>
+            <ISBN>3456789012</ISBN>
+            <title>Cooking Basics</title>
+            <author>Alice Johnson</author>
+        </book>
+        <book>
+            <ISBN>4567890123</ISBN>
+            <title>International Cuisine</title>
+            <author>Bob Wilson</author>
+        </book>
+    </catalogue>
+</library>
